@@ -1,3 +1,4 @@
+//expenseController.js
 const Expense = require('../models/Expense');
 const Category = require('../models/Category');
 
